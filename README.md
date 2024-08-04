@@ -42,8 +42,8 @@ Jupyter Notebook (recommended for interactive exploration)
 
 ## Installation
 1. Clone this repository to your local machine using:   
-    git clone https://github.com/yourusername/visualizing-car-data.git
-
+    [git clone https://github.com/yourusername/visualizing-car-data.git
+](https://github.com/Rahulmanjhi45/Visualizing-Car-Data-.git)
 2. Navigate to the project directory:  
    cd visualizing-car-data
 
